@@ -14,18 +14,10 @@ DevSecOps security pipeline scanner that performs automated security analysis ac
 </b></td>
   </tr>
   <tr>
-    <td><img src="placeholder" width="100%"/></td>
-    <td><img src="placeholder" width="100%"/></td>
-  </tr>
-  <tr>
     <td align="center"><b><img width="2878" height="1557" alt="Screenshot 2026-04-06 142714" src="https://github.com/user-attachments/assets/a77e1555-a162-40f9-993d-a09ce71cf727" />
 </b></td>
     <td align="center"><b><img width="2879" height="1556" alt="Screenshot 2026-04-06 142815" src="https://github.com/user-attachments/assets/b3d3e306-0477-4772-99af-af874355d752" />
 </b></td>
-  </tr>
-  <tr>
-    <td><img src="placeholder" width="100%"/></td>
-    <td><img src="placeholder" width="100%"/></td>
   </tr>
   <tr>
     <td align="center"><b><img width="2849" height="1556" alt="Screenshot 2026-04-06 143741" src="https://github.com/user-attachments/assets/21209ed8-ef70-4649-b59d-ec1da89b972b" />
@@ -33,15 +25,10 @@ DevSecOps security pipeline scanner that performs automated security analysis ac
     <td align="center"><b><img width="2879" height="1554" alt="Screenshot 2026-04-06 150235" src="https://github.com/user-attachments/assets/fc4d1d8d-82fe-4162-ab99-920ef52c3df7" /></b></td>
   </tr>
   <tr>
-    <td><img src="placeholder" width="100%"/></td>
-    <td><img src="placeholder" width="100%"/></td>
-  </tr>
-  <tr>
     <td align="center" colspan="2"><b><img width="1220" height="2536" alt="image" src="https://github.com/user-attachments/assets/7e785d61-68cd-4013-ae20-a31aad7079c9" />
 </b></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="placeholder" width="60%"/></td>
   </tr>
 </table>
 
