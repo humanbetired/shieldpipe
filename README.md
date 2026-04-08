@@ -6,38 +6,23 @@ DevSecOps security pipeline scanner that performs automated security analysis ac
 
 ## Screenshots
 
-<table>
-  <tr>
-    <td align="center"><b>Screenshot 1</b></td>
-    <td align="center"><b>Screenshot 2</b></td>
-  </tr>
-  <tr>
-    <td><img src="placeholder" width="100%"/></td>
-    <td><img src="placeholder" width="100%"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Screenshot 3</b></td>
-    <td align="center"><b>Screenshot 4</b></td>
-  </tr>
-  <tr>
-    <td><img src="placeholder" width="100%"/></td>
-    <td><img src="placeholder" width="100%"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Screenshot 5</b></td>
-    <td align="center"><b>Screenshot 6</b></td>
-  </tr>
-  <tr>
-    <td><img src="placeholder" width="100%"/></td>
-    <td><img src="placeholder" width="100%"/></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><b>Screenshot 7</b></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="placeholder" width="60%"/></td>
-  </tr>
-</table>
+## Scan Overview
+
+| Overview | Run Scan | Scan History |
+|----------|----------|--------------|
+| ![](assets/overview.png) | ![](assets/run.png) | ![](assets/scan_history.png) |
+
+## Findings
+
+| Top Findings | Detail View |
+|--------------|-------------|
+| ![](assets/top_findings.png) | ![](assets/detail_view.png) |
+
+## AI Summary
+
+| AI Summary |
+|------------|
+| ![](assets/AI_summary.png) |
 
 ---
 
